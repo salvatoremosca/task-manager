@@ -88,6 +88,12 @@ Include the Token in the requests
 Authorization: Bearer <ACCESS_TOKEN>
 ```
 
+## Testing
+Run all tests:
+```bash
+python manage.py test
+```
+
 ---
 
 ## Future Improvements
